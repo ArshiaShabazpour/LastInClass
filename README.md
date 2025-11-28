@@ -1,3 +1,5 @@
+100832558 Arshiya Shahbazpourtazehkand
+100755966 Saw Latt
 # Road Fighter 
 We decided to add a simple button remapping for our game since our logic is pretty simple and in our opinion was the only area that the commnad design pattern would benefit our game. This Remapping could
 be useful for people for movement disabilities. By pressing the button R our game input system can switch from right and left arrows to A and D button for movement ot the left and right. 
@@ -10,3 +12,5 @@ because the issue stems from lack of experinece and taking too much time trying 
 Left and Right arrows keys to move <-> A and D keys to move 
 R to swap between the mapping
 Avoid the enemies and score a highscore by surviving! 
+
+![alt text](WASD.png)
